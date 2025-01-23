@@ -15,8 +15,8 @@
 
 img
 {
-    width: 100vw;
-    height: ;
+    width: 95vw;
+    border-radius: 5px;
 }
 
 a
@@ -28,6 +28,7 @@ a
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
+    border-radius: 5px;
 }
 
 a:hover

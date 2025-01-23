@@ -31,10 +31,10 @@ section#telefone
 {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 43%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
+    height: 610px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
